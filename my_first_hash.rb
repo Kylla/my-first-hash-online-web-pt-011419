@@ -43,6 +43,6 @@ def adding
   
   # return the shipping_manifest hash below
 
-  puts adding
+  return shipping_manifest
 
 end
